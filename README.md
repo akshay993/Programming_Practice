@@ -1,2 +1,2 @@
 # Programming_Practice
-Random programming questions for practice
+Programming questions from different websites for practice
